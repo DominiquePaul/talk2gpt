@@ -1,0 +1,8 @@
+ignore
+.streamlit/**
+.DS_Store
+__pycache__/
+sl_app_data/
+.vscode/
+sandbox.py
+venv
